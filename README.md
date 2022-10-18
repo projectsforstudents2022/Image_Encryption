@@ -2,7 +2,9 @@
 
 ## Directly Run
 
+```javascript
 python3 aesimage.py
+``` 
 
 ## How to run (Google Collab)
 1. Download this repository and extract the file
